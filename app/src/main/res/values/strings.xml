@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="play">com.example.music.PLAY</string>
+    <string name="next">com.example.music.NEXT</string>
+    <string name="clear">com.example.music.CLEAR</string>
+    <string name="previous">com.example.music.PREVIOUS</string>
+
+
+
+</resources>
